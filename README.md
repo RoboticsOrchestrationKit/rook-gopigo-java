@@ -1,2 +1,2 @@
 # rook-chi-java
-Rook - Common Hardware Interface
+Rook - GoPiGo Driver

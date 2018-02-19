@@ -17,7 +17,7 @@ public class GoPiGo3Driver extends ThrottledDriver {
 	private final Map<String, Output> outputs = new HashMap<>();
 	
 	public GoPiGo3Driver() {
-		super(50);
+		super(25);
 	}
 	
 	public void addInput(String name, Input input) {
